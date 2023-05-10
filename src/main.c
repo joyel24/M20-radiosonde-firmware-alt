@@ -253,14 +253,14 @@ int main(void)
         HAL_GPIO_WritePin(LED_GPIO_PORT, LED_PIN, GPIO_PIN_RESET);
       }
     }
-      // printf ("Frame DUMP: \r\n");
-      // for (uint8_t i=0; i <63; i++ )
-      // {
-      //   printf("%02x ", UartBuffer[i]);
-      // }
-      // printf("\r\n");
+       printf ("Frame DUMP: \r\n");
+       for (uint8_t i=0; i <63; i++ )
+       {
+         printf("%02x ", UartBuffer[i]);
+       }
+       printf("\r\n");
       
-      // clear buffer
+      //clear buffer
     memset((uint8_t*)UartBuffer, 0, 128);
     UartIndex = 0;
     cnt = 0;
