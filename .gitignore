@@ -1,4 +1,7 @@
 *.DS_Store
+*.pio
+c_cpp_properties.json
+launch.json
 
 # Prerequisites
 *.d
