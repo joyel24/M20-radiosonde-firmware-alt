@@ -1,0 +1,11 @@
+main.c:72:10:setfreq	1
+main.c:86:6:myspi	3
+main.c:114:6:TIM22_test	1
+main.c:141:5:main	2
+main.c:254:6:SystemClock_Config	4
+main.c:309:13:MX_ADC_Init	3
+main.c:365:13:MX_TIM6_Init	3
+main.c:403:13:MX_TIM22_Init	4
+main.c:448:13:MX_USART1_UART_Init	2
+main.c:483:13:MX_GPIO_Init	1
+main.c:561:6:Error_Handler	1
