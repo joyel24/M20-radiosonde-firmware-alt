@@ -10,3 +10,5 @@ More updates in a couple of weeks because I'm a bit busy actually :
 https://youtube.com/playlist?list=PLKM5FNxF7v42fTIaH2O8OKJLjFLZwaq5I
 
 I'll try to make English version of this YouTube playlist later.
+
+I think we are gonna come back working on this project when at the of October 2023
