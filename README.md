@@ -14,3 +14,7 @@ I'll try to make English version of this YouTube playlist later.
 I think we are gonna come back working on this project at the end of October 2023
 
 You can join us on Discord if you wanna talk about this project : https://discord.gg/m5vPq8YC
+
+
+<br><br>
+Thanks to infrat who did an incredible Reverse Enginering work here : https://github.com/infrat/m20-playground
