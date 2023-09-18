@@ -17,4 +17,4 @@ You can join us on Discord if you wanna talk about this project : https://discor
 
 
 <br><br>
-Thanks to infrat who did an incredible Reverse Enginering work here : https://github.com/infrat/m20-playground
+Thanks to infrat who did an incredible Reverse Enginering work here : [PDF_M20_REVERSE](https://www.egimoto.com/dwld/17528ed1858138.pdf)
