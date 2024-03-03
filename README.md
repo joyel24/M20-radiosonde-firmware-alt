@@ -1,4 +1,4 @@
-# MOVED to moved to https://github.com/joyel24/meteomodem_m20_custom_firmwareAlternative
+# MOVED to moved to https://github.com/joyel24/meteomodem_m20_custom_firmware
 
 
 # M20-radiosonde-firmware-alt
